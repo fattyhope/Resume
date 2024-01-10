@@ -6,3 +6,5 @@ Resume largely based on Jake's Resume which can be found here on [Github](https:
 ## Preview
 
 ## Getting Started
+
+## Usage 
